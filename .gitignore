@@ -1,0 +1,5 @@
+CygWin
+http*
+ftp*
+*.exe
+libressl*
