@@ -1,7 +1,7 @@
 @echo off
 
 REM --- Change to use different CygWin platform and final install path
-set CYGSETUP=setup-x86_64.exe
+REM set CYGSETUP=setup-x86_64.exe
 set CYGSETUP=setup-x86.exe
 set TARGETPATH=.
 
