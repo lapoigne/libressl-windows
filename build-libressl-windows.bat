@@ -5,7 +5,8 @@ REM set CYGSETUP=setup-x86_64.exe
 set CYGSETUP=setup-x86.exe
 set TARGETPATH=.
 
-set libresslver=libressl-2.8.2.tar.gz
+set libresslver=libressl-2.8.3.tar.gz
+
 set libressldir=%libresslver:.tar.gz=%
 
 REM --- Fetch Cygwin setup from internet using powershell
