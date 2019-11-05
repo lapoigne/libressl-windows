@@ -5,7 +5,7 @@ REM set CYGSETUP=setup-x86_64.exe
 set CYGSETUP=setup-x86.exe
 set TARGETPATH=.
 
-set libresslver=libressl-2.9.2.tar.gz
+set libresslver=libressl-3.0.2.tar.gz
 
 set libressldir=%libresslver:.tar.gz=%
 
